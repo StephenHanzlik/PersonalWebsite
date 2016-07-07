@@ -80,7 +80,7 @@ a:visited {
 }
 
 .projectList li {
-    display: !inline-flex;
+    display: inline-flex;
     padding-right: 1.5rem;
     
 }
