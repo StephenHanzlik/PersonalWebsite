@@ -65,7 +65,7 @@ a:visited {
 }
 
 .iconList li {
-    display: inline-flex;
+    display: inline;
     padding-right: 1.5rem;
 }
 
